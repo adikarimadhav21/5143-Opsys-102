@@ -1,0 +1,4 @@
+Assignments/00-P02/helper/__pycache__/command_helper.cpython-310.pyc
+*.pyc
+Assignments/00-P01/cmd/__pycache__/*.pyc
+Assignments/*/myenv/

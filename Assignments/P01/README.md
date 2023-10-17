@@ -66,6 +66,18 @@ We use a shell quite often . This project implemented expected shell behavior us
 ### Non-Working Components
 - Input redirection is not working
 - Arrow and back space is working but not perfectly 
+
+
+### Files
+
+|   #   | File            | Description                                        |
+| :---: | --------------- | -------------------------------------------------- |
+|   1 | [shell.py](shell.py)     | file that holds  driver code to allow interaction with user via shell |
+|   2 | [requirements.txt](requirements.txt)   | file that holds list of dependencies for this project    |
+|   3| [getch_helper.py)](getch_helper.py)   | file that holds code to take input from user |
+|   4| [command_helper.py](command_helper.py)   | file that holds code for command looping |
+|   5| [cmds](cmds)   | folder that holds list of files where each files have commands  |
+
 ## References
 - http://www.pixelbeat.org/talks/python/ls.py.html
 - https://docs.python.org/3/py-modindex.html
